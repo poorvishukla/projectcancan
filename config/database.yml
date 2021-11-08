@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: appcancan 
+  pool: 5
+  username: myapp
+  password: 12345678
